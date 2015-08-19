@@ -3,7 +3,7 @@ This is an perk deck overhaul for PAYDAY2. Tweaking perks to be balancing or mor
 
 # Rebalances
 ## Hitman
-Hitman perk deck now nulifies all the regeneration time, maintaining the 20% value.
+Hitman perk deck now nulifies all the regeneration time, maintaining the 20% value for armor reduction
 ## Sociopath
 The Sociopath keeps it's buffs with a smaller cooldown.
 
